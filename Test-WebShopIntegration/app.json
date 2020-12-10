@@ -1,0 +1,33 @@
+{
+  "id": "58505071-5144-4fc4-9185-5da3b76c59d2",
+  "name": "Test-WebShopIntegration",
+  "publisher": "ERP365",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5beb5b70-2e0b-4b91-957d-a691005aa57a",
+      "name": "WebShop_Integration",
+      "publisher": "ERP365",
+      "version": "1.0.0.3"
+    }
+  ],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50211,
+      "to": 50215
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Test-WebShopIntegration.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
